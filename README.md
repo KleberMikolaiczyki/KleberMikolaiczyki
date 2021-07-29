@@ -1,10 +1,10 @@
 ## Oiii, Eu sou Kleber Mikolaiczyki!
 
-Hoje trabalho com manutenção de computadores e redes
+Hoje trabalho com manutenção de computadores e redes;
 
-Estudando JavaScript
+Estudando JavaScript;
 
-Pronomuns: ele/dele
+Pronomuns: ele/dele.
 
 
 
