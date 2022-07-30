@@ -1,6 +1,6 @@
-## Oiii, Eu sou Kleber Mikolaiczyki!
+## Uepaa, Eu sou Kleber Mikolaiczyki!
 
-Hoje trabalho com manutenção de computadores e redes;
+Hoje trabalho como Técnico de Suporte;
 
 Estudando JavaScript;
 
